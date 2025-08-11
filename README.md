@@ -17,7 +17,7 @@
 
 1 - Install the APP INSTALLER in your PaxoPhone 
  
-1-1 - Go to the Website by clicking <a href="http://45.90.13.219:6109/index.html">Here</a>
+1-1 - Go to the Website by clicking <a href="http://45.90.13.219:6109/index.html">Here (Not available) </a>
 
 2 - Go To Paxo APPS Catégorie by click on it .
 
